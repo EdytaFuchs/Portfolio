@@ -8,7 +8,6 @@ When I started digging into testing topic, firstly I completed basic software te
 
 ## Experience 💼
 
-[![LinkedIn](https://www.linkedin.com/in/edyta-fuchs-63980a171/?originalSubdomain=pl)
 
 ## Courses 📚
 
