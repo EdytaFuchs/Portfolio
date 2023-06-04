@@ -8,7 +8,7 @@ When I started digging into testing topic, firstly I completed basic software te
 
 ## Experience 💼
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aleksandra-hernik-3403311aa/)
+[![LinkedIn](https://www.linkedin.com/in/edyta-fuchs-63980a171/?originalSubdomain=pl)
 
 ## Courses 📚
 
