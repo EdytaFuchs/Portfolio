@@ -27,7 +27,7 @@ When I started digging into testing topic, firstly I completed basic software te
 - working on multiple projects
 
 ## My projects 👩‍💻
-- Test Case ## Przypadki testowe - Test Case.pdf 
+- Test Case Przypadki testowe - Test Case.pdf 
 
 ## Languages 🗣
 - Polish - native
