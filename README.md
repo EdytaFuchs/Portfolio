@@ -27,7 +27,7 @@ When I started digging into testing topic, firstly I completed basic software te
 - working on multiple projects
 
 ## My projects 👩‍💻
-
+- Test Case
 
 ## Languages 🗣
 - Polish - native
