@@ -6,18 +6,17 @@ I discovered that a career path as a Software Tester is something that could sui
 I pay attention to detail and can successfully manage multiple tasks under limited-time.
 When I started digging into testing topic, firstly I completed basic software tesing course and I only made sure that this is something that I'm interested in. 
 
-## Experience 💼
 
-
-## Courses 📚
-
+## Courses 📚 
+- Podstawy Testowania Oprogramowania 
 
 ## Tools ⚒
 - GitHub
 - Git
 - mySQL
 - Jira
-- HTML/CSS
+- HTML/CSS 
+- Visual Studio Code
 
 ## Tech&Soft skills 👩🏼‍🎓
 - writing test cases
@@ -28,6 +27,7 @@ When I started digging into testing topic, firstly I completed basic software te
 
 ## My projects 👩‍💻
 - Przypadki testowe - Test Case.pdf 
+- Raport zgłaszania błędów - Bugs Reoprting.pdf
 
 ## Languages 🗣
 - Polish - native
