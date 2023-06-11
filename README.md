@@ -27,7 +27,8 @@ I am still striving to expand my knowledge in the field of software testing.
 
 ## My projects 👩‍💻
 - Przypadki testowe - Test Case.pdf 
-- Raport zgłaszania błędów - Bugs Reoprting.pdf
+- Raport zgłaszania błędów - Bugs Reoprting.pdf 
+- SQL portfolio.pdf
 
 ## Languages 🗣
 - Polish - native
