@@ -8,15 +8,17 @@ When I started digging into testing topic, firstly I completed basic software te
 I am still striving to expand my knowledge in the field of software testing.
 
 ## Courses 📚 
-- Podstawy Testowania Oprogramowania 
-
+- Podstawy Testowania Oprogramowania
+- Tworzenie aplikacji internetowych - poziom podstawowy 
+  
 ## Tools ⚒
 - GitHub
 - Git
-- mySQL
+- SQL
 - Jira
 - HTML/CSS 
 - Visual Studio Code
+- Postman
 
 ## Tech&Soft skills 👩🏼‍🎓
 - writing test cases
