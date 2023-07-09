@@ -31,6 +31,7 @@ I am still striving to expand my knowledge in the field of software testing.
 - Przypadki testowe - Test Case.pdf 
 - Raport zgłaszania błędów - Bugs Reoprting.pdf 
 - SQL portfolio.pdf
+- Postman Edyta Fuchs.pdf
 
 ## Languages 🗣
 - Polish - native
