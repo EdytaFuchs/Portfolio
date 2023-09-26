@@ -9,6 +9,7 @@ I am still striving to expand my knowledge in the field of software testing.
 
 ## Courses 📚 
 - Podstawy Testowania Oprogramowania
+- Cyber Trainees - Python Pentester
 - Tworzenie aplikacji internetowych - poziom podstawowy 
   
 ## Tools ⚒
