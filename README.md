@@ -19,6 +19,7 @@ I am still striving to expand my knowledge in the field of software testing.
 - HTML/CSS 
 - Visual Studio Code
 - Postman
+- Slack
 
 ## Tech&Soft skills 👩🏼‍🎓
 - writing test cases
